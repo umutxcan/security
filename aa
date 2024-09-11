@@ -14,5 +14,4 @@ function onResponse(req, res) {
     }
   }
 
-// https://discord.com/api/webhooks/1283358981510926369/sk94HVmfHyqzOpxhfxbG-lW-5tv-SbcZ9ysgKs0piWe3tESkZTT08RqtBGFfbN8SNZYE
-}
+//
